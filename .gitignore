@@ -64,6 +64,9 @@ cython_debug/
 .vscode/
 
 
+db.sqlite3
+
+
 .env/
 .env.bak/
 env/
